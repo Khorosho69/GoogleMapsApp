@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GoogleMapsApp</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="permission_denied_message">Permission is denied, allows it to show your location.</string>
+    <string name="wrong_input_message">Wrong input.</string>
+    <string name="create_markers_button">Create markers</string>
 </resources>
